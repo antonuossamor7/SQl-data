@@ -1,4 +1,4 @@
-# SQl-data# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQl-data# SQL - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
